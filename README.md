@@ -37,6 +37,7 @@ O projeto é composto por duas versões: uma **versão principal**, que é uma i
 ├── thumb02.jpg
 ├── delete.png
 └── edit.png ```
+
 ---
 
 ## ✅ Funcionalidades
