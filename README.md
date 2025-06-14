@@ -21,7 +21,7 @@ O projeto é composto por duas versões: uma **versão principal**, que é uma i
 
 ## 📁 Estrutura de Arquivos
 
-```├── projeto_principal/
+├── projeto_principal/
 │ ├── index.html
 │ └── style.css
 ├── projeto_alternativo/
@@ -34,9 +34,14 @@ O projeto é composto por duas versões: uma **versão principal**, que é uma i
 ├── 4.jpg
 ├── 5.jpg
 ├── 6.jpg
-├── thumb02.jpg
 ├── delete.png
-└── edit.png ```
+├── edit.png 
+├── thumb01.jpg
+├── thumb02.jpg
+├── thumb03.jpg
+├── thumb04.jpg
+├── thumb05.jpg
+└── thumb06.jpg
 
 ---
 
